@@ -1,0 +1,12 @@
+.idea
+.vscode
+*-main.c
+0-complex
+1-conjugate
+2-modulus
+3-argument
+4-addition
+5-substraction
+6-multiplication
+7-division
+8-complex
